@@ -1,3 +1,5 @@
+## Lista uwag
+
 Program wyrzucał błędu z powodu: 
 
 * W klasie program błędnie wpisana nazwa pliku do odczytu 
